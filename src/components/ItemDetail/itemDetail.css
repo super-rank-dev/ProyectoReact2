@@ -1,0 +1,14 @@
+.controls-container{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.pStock{
+    margin-top: 10px;
+    color: red;
+    font-weight: 500;
+}

@@ -1,0 +1,21 @@
+a {
+    color: black !important;
+    text-decoration: none !important;
+}
+
+.nav-link:hover{
+    background-color: skyblue !important;
+}
+
+
+.me-auto{
+    display: flex !important;
+    align-items: center !important;
+    flex-direction: row !important;
+    justify-content: space-between !important;
+    margin: 10px !important;
+}
+
+.logo{
+    font-size: x-large;
+}

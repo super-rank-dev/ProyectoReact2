@@ -1,0 +1,45 @@
+.imgCOut{
+    width: 150px;
+    height: 100px;
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    border: solid 1px black;
+    border-radius: 5px;
+    margin: 30px;
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: white;
+}
+
+
+.col4{
+margin: 30px;
+}
+
+.col5{
+    margin: 30px;
+    }
+
+.orden{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: green;
+}
+
+.pago{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: green;
+}
+
+.comprador{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

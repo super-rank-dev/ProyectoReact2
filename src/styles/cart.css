@@ -1,0 +1,77 @@
+.img1{
+height: 200px;
+width: 300px;
+}
+
+.Cart{
+display: flex;
+flex-direction: row;
+align-items: center;
+border: grey 1px solid;
+border-radius: 5px;
+margin: 20px;
+background-color: white;
+}
+
+.col1{
+    padding: 20px;
+    border-right: grey 2px solid;
+}
+
+.col2{
+    padding: 10px;
+    width: 60%;
+}
+
+
+
+.btn1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+}
+
+.total{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+.info{
+    margin: 40px;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.btnClear{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+}
+
+.formulario{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 100px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border: solid 1px grey;
+    border-radius: 5px;
+    padding: 50px;
+    background-color: rgb(157, 221, 247);
+}
+
+.formTitulo{
+    margin-bottom: 30px;
+}
